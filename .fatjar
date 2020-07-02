@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Wed Feb 12 21:54:44 KST 2020
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=C\:\\Users\\1yw\\Desktop\\test30.jar
+manifest.mergeall=true
+manifest.mainclass=
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=
